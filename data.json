@@ -1,0 +1,48 @@
+{
+  "question": [
+    "Q1. Enter Your Age",
+    "Q2. Are you sexually active",
+    "Q3. Are you having regular periods or irregular periods",
+    "Q4. Number of days your periods lasts?",
+    "Q5. Passage of Clots",
+    "Q6. Are you having Any pain?",
+    "Q7. Have you stopped working or affecting work?",
+    "Q8. Is there staining of cloths using pads?"
+  ],
+ 
+  "options": [
+
+    ["<15",
+      "15-35",
+      "more than 35"
+    ],
+    ["yes",
+      "no"
+    ],
+    ["Regular",
+     "Irregular"
+    ],
+    ["1-2",
+      "2-5",
+      "more than 5"
+    ],
+    ["yes",
+     "no"
+    ],
+    ["yes",
+      "no"
+    ],
+    ["yes",
+     "no"
+    ],
+    ["yes",
+      "no"
+    ],
+    ["yes",
+      "no"
+    ]
+
+
+
+  ]
+}
